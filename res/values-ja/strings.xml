@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">こんにちは, Kobandroid!</string>
+    <string name="app_name">Kobandroid</string>
+    <string name="dialog_manner_title">設定変更の確認</string>
+    <string name="dialog_manner_message">メディア音量を最大にしてもいいですか？</string>
+    <string name="dialog_keynumber_title">4桁の暗証番号を設定ください</string>
+    <string name="dialog_wrong_number_title">暗証番号は4桁の数字で入力してください</string>
+    
+</resources>
